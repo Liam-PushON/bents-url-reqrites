@@ -1,0 +1,6 @@
+rewrite ^/poppy-std-5-leopard-clofoo3683-clofoo3683/$ /poppy-std-5-leopard-clofoo3683-clofoo3683-CLOFOO3683 permanent;
+rewrite ^/poppy-std-5-leopard-clofoo3683-clofoo3683-clofoo3683/$ /poppy-std-5-leopard-clofoo3683-clofoo3683-clofoo3683-CLOFOO3683 permanent;
+rewrite ^/weber-poultry-roaster-12-bbaacc0022-bbaacc0022/$ /weber-poultry-roaster-12-bbaacc0022-bbaacc0022-BBAACC0022 permanent;
+rewrite ^/weber-poultry-roaster-12-bbaacc0022-bbaacc0022-bbaacc0022/$ /weber-poultry-roaster-12-bbaacc0022-bbaacc0022-bbaacc0022-BBAACC0022 permanent;
+rewrite ^/triton-cast-iron-griddle-bbaacc0027-bbaacc0027/$ /triton-cast-iron-griddle-bbaacc0027-bbaacc0027-BBAACC0027 permanent;
+rewrite ^/triton-cast-iron-griddle-bbaacc0027-bbaacc0027-bbaacc0027/$ /triton-cast-iron-griddle-bbaacc0027-bbaacc0027-bbaacc0027-BBAACC0027 permanent;

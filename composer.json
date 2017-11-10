@@ -1,0 +1,14 @@
+{
+    "name": "liam/bents_stock_import",
+    "authors": [
+        {
+            "name": "Liam McNair",
+            "email": "Liam.mncair@pushon.co.uk"
+        }
+    ],
+    "require": {
+        "kint-php/kint": "^2.2",
+        "guzzlehttp/guzzle": "^6.3",
+        "zendframework/zend-http": "^2.7"
+    }
+}
