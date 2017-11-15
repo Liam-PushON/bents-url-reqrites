@@ -53,7 +53,7 @@ function _withColor($string, $fg = "0;30", $bg = "42")
         $color .= "\033[{$fg}m";
     }
     if ($bg) {
-gst        $color .= "\033[{$bg}m";
+        $color .= "\033[{$bg}m";
     }
     return $color . $string . $cap;
 }
